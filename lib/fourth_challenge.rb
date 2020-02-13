@@ -20,7 +20,15 @@ epic_tragedy = {
    }
 }
 
+<<<<<<< HEAD
 
 
 end
 
+=======
+epic_tragedy[:montague][:hero][:status] = "dead"
+epic_tragedy[:capulet][:heroine][:status] = "dead"
+
+end
+
+>>>>>>> 46b6a3bce473fb412e028cd40e0adbbb7b073c45
